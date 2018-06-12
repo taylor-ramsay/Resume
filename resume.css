@@ -83,7 +83,7 @@ p {
     background-color: transparent;
 }
 .collection.with-header {
-    margin-top: .3in
+    margin-top: .2in
 }
 
 .linked-in {
@@ -103,7 +103,8 @@ p {
     background-color: white;
     width: 1.3in;
     height: .3in;
-    margin-top: .3in
+    margin-top: .2in;
+    margin-bottom: .2in;
 }
 
 .education {
