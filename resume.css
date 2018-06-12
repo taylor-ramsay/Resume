@@ -1,0 +1,129 @@
+body {
+    width: 8.5in;
+    height: 11in;
+}
+
+h1, h2, h3, h4, h5 {
+    font-family: 'ABeeZee', sans-serif;
+    margin: .08in;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    margin: .08in;
+}
+
+h1 {
+    font-size: .38in
+}
+h2 {
+    font-size: .24in
+}
+
+h3 {
+    font-size: .20in
+}
+
+h4 {
+    font-size: .18in
+}
+
+p { 
+    font-size: .15in;
+}
+
+.sidebar {
+    background-color: #3993FC;
+    height: 11in;
+}
+
+.mainbar {
+    height: 11in;
+}
+
+.white-text {
+    color: white
+}
+
+.pic {
+    height: 1in;
+}
+
+.title-wrapper {
+    margin-top: .2in;
+}
+
+.title-box {
+    width: 2in;
+    height: 1in;
+    background-color: white;
+    padding: .1in;
+}
+
+.title-text {
+    color: #3993FC;
+}
+
+.profile-box {
+    background-color: #3993FC;
+    width: .9in;
+    height: .3in;
+    margin-top: .2in
+}
+
+.maintext-header {
+    color: white;
+}
+
+.collection .collection-item {
+    background-color: transparent;
+}
+
+.collection.with-header .collection-header {
+    background-color: transparent;
+}
+.collection.with-header {
+    margin-top: .3in
+}
+
+.linked-in {
+    height: .2in;
+    margin-left: .02in
+}
+.github {
+    height: .22in;
+    
+}
+
+.maintext-body {
+    margin: .2in
+}
+
+.education-box {
+    background-color: white;
+    width: 1.3in;
+    height: .3in;
+    margin-top: .3in
+}
+
+.education {
+    color:#3993FC;
+}
+
+.experience-box {
+    background-color: #3993FC;
+    width: 1.4in;
+    height: .3in;
+    margin-top: .2in
+}
+
+.portfolio-box {
+    background-color: #3993FC;
+    width: 1.15in;
+    height: .3in;
+    margin-top: .2in
+}
+
+.technology {
+    font-weight: 700;
+}
